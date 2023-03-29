@@ -36,7 +36,7 @@
 				<artifactId>spring-boot-maven-plugin</artifactId>
 			</plugin>
 		</plugins>
-		<finalName>springboot-springboot-upes</finalName>
+		<finalName>springboot-demo-upes</finalName>
 	</build>
 
 </project>
